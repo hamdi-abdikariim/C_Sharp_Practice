@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SM5\\SM5 Lab\\C#\\Payroll_With_Overtime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B530FD3A-BC30-429B-BD44-0C9D65F979A5}|Payroll_With_Overtime\\Payroll_With_Overtime.csproj|d:\\sm5\\sm5 lab\\c#\\payroll_with_overtime\\payroll_with_overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B530FD3A-BC30-429B-BD44-0C9D65F979A5}|Payroll_With_Overtime\\Payroll_With_Overtime.csproj|solutionrelative:payroll_with_overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B530FD3A-BC30-429B-BD44-0C9D65F979A5}|Payroll_With_Overtime\\Payroll_With_Overtime.csproj|d:\\sm5\\sm5 lab\\c#\\payroll_with_overtime\\payroll_with_overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B530FD3A-BC30-429B-BD44-0C9D65F979A5}|Payroll_With_Overtime\\Payroll_With_Overtime.csproj|solutionrelative:payroll_with_overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SM5\\SM5 Lab\\C#\\Payroll_With_Overtime\\Payroll_With_Overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "Payroll_With_Overtime\\Form1.cs",
+              "ToolTip": "D:\\SM5\\SM5 Lab\\C#\\Payroll_With_Overtime\\Payroll_With_Overtime\\Form1.cs*",
+              "RelativeToolTip": "Payroll_With_Overtime\\Form1.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:05:26.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SM5\\SM5 Lab\\C#\\Payroll_With_Overtime\\Payroll_With_Overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "Payroll_With_Overtime\\Form1.cs",
+              "ToolTip": "D:\\SM5\\SM5 Lab\\C#\\Payroll_With_Overtime\\Payroll_With_Overtime\\Form1.cs [Design]*",
+              "RelativeToolTip": "Payroll_With_Overtime\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:30:32.724Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

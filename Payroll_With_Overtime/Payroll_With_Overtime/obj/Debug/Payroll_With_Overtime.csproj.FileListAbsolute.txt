@@ -1,0 +1,11 @@
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\bin\Debug\Payroll_With_Overtime.exe.config
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\bin\Debug\Payroll_With_Overtime.exe
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\bin\Debug\Payroll_With_Overtime.pdb
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\obj\Debug\Payroll_With_Overtime.csproj.AssemblyReference.cache
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\obj\Debug\Payroll_With_Overtime.Form1.resources
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\obj\Debug\Payroll_With_Overtime.Properties.Resources.resources
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\obj\Debug\Payroll_With_Overtime.csproj.GenerateResource.cache
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\obj\Debug\Payroll_With_Overtime.csproj.CoreCompileInputs.cache
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\obj\Debug\Payroll_With_Overtime.exe
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\obj\Debug\Payroll_With_Overtime.pdb
+D:\SM5\SM5 Lab\C#\Payroll_With_Overtime\Payroll_With_Overtime\obj\Debug\Payroll_With_Overtime.exe.config
