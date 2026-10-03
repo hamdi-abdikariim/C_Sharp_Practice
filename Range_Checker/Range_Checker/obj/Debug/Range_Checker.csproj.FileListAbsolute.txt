@@ -1,0 +1,10 @@
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.csproj.AssemblyReference.cache
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.Form1.resources
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.Properties.Resources.resources
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.csproj.GenerateResource.cache
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.csproj.CoreCompileInputs.cache
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\bin\Debug\Range_Checker.exe.config
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\bin\Debug\Range_Checker.exe
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\bin\Debug\Range_Checker.pdb
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.exe
+D:\SM5\SM5 Lab\C#\Range_Checker\Range_Checker\obj\Debug\Range_Checker.pdb
