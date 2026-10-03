@@ -1,0 +1,11 @@
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\bin\Debug\Test_Score_Average.exe.config
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\bin\Debug\Test_Score_Average.exe
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\bin\Debug\Test_Score_Average.pdb
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.csproj.AssemblyReference.cache
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.Form1.resources
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.Properties.Resources.resources
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.csproj.GenerateResource.cache
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.csproj.CoreCompileInputs.cache
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.exe
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.pdb
+D:\SM5\SM5 Lab\C#\Test_Score_Average\Test_Score_Average\obj\Debug\Test_Score_Average.exe.config
