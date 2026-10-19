@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C5118D-C874-4F84-AAF3-DA52CFEB9E65}|Vehicle Rental Management System\\Vehicle Rental Management System.csproj|D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\vehicle rental management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C5118D-C874-4F84-AAF3-DA52CFEB9E65}|Vehicle Rental Management System\\Vehicle Rental Management System.csproj|solutionrelative:vehicle rental management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C5118D-C874-4F84-AAF3-DA52CFEB9E65}|Vehicle Rental Management System\\Vehicle Rental Management System.csproj|d:\\sm5\\sm5 lab\\c#\\vehicle rental management system\\vehicle rental management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18C5118D-C874-4F84-AAF3-DA52CFEB9E65}|Vehicle Rental Management System\\Vehicle Rental Management System.csproj|solutionrelative:vehicle rental management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C5118D-C874-4F84-AAF3-DA52CFEB9E65}|Vehicle Rental Management System\\Vehicle Rental Management System.csproj|D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\vehicle rental management system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C5118D-C874-4F84-AAF3-DA52CFEB9E65}|Vehicle Rental Management System\\Vehicle Rental Management System.csproj|solutionrelative:vehicle rental management system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C5118D-C874-4F84-AAF3-DA52CFEB9E65}|Vehicle Rental Management System\\Vehicle Rental Management System.csproj|D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\vehicle rental management system\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{18C5118D-C874-4F84-AAF3-DA52CFEB9E65}|Vehicle Rental Management System\\Vehicle Rental Management System.csproj|solutionrelative:vehicle rental management system\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": []
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ffbaad93-b3ee-4089-93dd-557da6f91017",
+        "Display": 0,
+        "X": 0,
+        "Y": 69,
+        "Width": 300,
+        "Height": 200,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\Vehicle Rental Management System\\Form1.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental Management System\\Form1.cs",
+              "ToolTip": "D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\Vehicle Rental Management System\\Form1.cs [Design]*",
+              "RelativeToolTip": "Vehicle Rental Management System\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:18:53.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\Vehicle Rental Management System\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental Management System\\Form1.Designer.cs",
+              "ToolTip": "D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\Vehicle Rental Management System\\Form1.Designer.cs*",
+              "RelativeToolTip": "Vehicle Rental Management System\\Form1.Designer.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAjwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:58:37.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\Vehicle Rental Management System\\Form1.resx",
+              "RelativeDocumentMoniker": "Vehicle Rental Management System\\Form1.resx",
+              "ToolTip": "D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\Vehicle Rental Management System\\Form1.resx*",
+              "RelativeToolTip": "Vehicle Rental Management System\\Form1.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-14T09:58:37.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\Vehicle Rental Management System\\Form1.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental Management System\\Form1.cs",
+              "ToolTip": "D:\\SM5\\SM5 Lab\\C#\\Vehicle Rental Management System\\Vehicle Rental Management System\\Form1.cs*",
+              "RelativeToolTip": "Vehicle Rental Management System\\Form1.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:35:06.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
