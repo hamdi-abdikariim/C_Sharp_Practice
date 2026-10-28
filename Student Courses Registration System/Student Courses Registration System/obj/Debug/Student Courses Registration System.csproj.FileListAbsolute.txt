@@ -1,0 +1,11 @@
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\bin\Debug\Student Courses Registration System.exe.config
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\bin\Debug\Student Courses Registration System.exe
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\bin\Debug\Student Courses Registration System.pdb
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\obj\Debug\Student Courses Registration System.csproj.AssemblyReference.cache
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\obj\Debug\Student_Courses_Registration_System.Form1.resources
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\obj\Debug\Student_Courses_Registration_System.Properties.Resources.resources
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\obj\Debug\Student Courses Registration System.csproj.GenerateResource.cache
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\obj\Debug\Student Courses Registration System.csproj.CoreCompileInputs.cache
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\obj\Debug\Student Courses Registration System.exe
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\obj\Debug\Student Courses Registration System.pdb
+D:\SM5\SM5 Lab\C#\Student Courses Registration System\Student Courses Registration System\obj\Debug\Student Courses Registration System.exe.config
