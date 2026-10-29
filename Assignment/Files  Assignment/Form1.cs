@@ -22,35 +22,20 @@ namespace Files__Assignment
         {
 
             {
-                // Declare StreamWriter
-                StreamWriter Output_file;
+    
+                // Declare StreamReader
+                StreamReader Input_file;
 
-                // Create a new file
-                Output_file = File.CreateText("readFile.txt");
+                // Open the file
+                Input_file = File.OpenText("readFile.txt");
 
-                // Write text into the file
-                Output_file.WriteLine("Welcome to CA242");
-                Output_file.WriteLine("Welcome to CA244");
-                Output_file.WriteLine("Data Structure is very hard");
+                // Read the file line by line
+                string line;
 
-                // Close the file
-                Output_file.Close();
-
-                MessageBox.Show("File created successfully!");
-
-                //// Declare StreamReader
-                //StreamReader Input_file;
-
-                //// Open the file
-                //Input_file = File.OpenText("readFile.txt");
-
-                //// Read the file line by line
-                //string line;
-
-                //while ((line = Input_file.ReadLine()) != null)
-                //{
-                //    lstDisplay.Items.Add(line);
-                //}
+                while ((line = Input_file.ReadLine()) != null)
+                {
+                   lstDisplay.Items.Add(line);
+                }
             }
         }
     }
