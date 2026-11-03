@@ -1,0 +1,11 @@
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\bin\Debug\Assignment SaveFileDialog.exe.config
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\bin\Debug\Assignment SaveFileDialog.exe
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\bin\Debug\Assignment SaveFileDialog.pdb
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\obj\Debug\Assignment SaveFileDialog.csproj.AssemblyReference.cache
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\obj\Debug\Assignment_SaveFileDialog.Form1.resources
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\obj\Debug\Assignment_SaveFileDialog.Properties.Resources.resources
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\obj\Debug\Assignment SaveFileDialog.csproj.GenerateResource.cache
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\obj\Debug\Assignment SaveFileDialog.csproj.CoreCompileInputs.cache
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\obj\Debug\Assignment SaveFileDialog.exe
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\obj\Debug\Assignment SaveFileDialog.pdb
+D:\SM5\SM5 Lab\C#\Assignment SaveFileDialog\Assignment SaveFileDialog\obj\Debug\Assignment SaveFileDialog.exe.config
